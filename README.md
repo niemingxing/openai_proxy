@@ -18,6 +18,7 @@
 ### 二、发布与代码切换
 
 部署切换：部署成功后、获取云函数地址，替换成代码里面openai sdk，baseUrl或者customUrl 即可。
+
 ![carbon (39)](https://github.com/niemingxing/openai_proxy/assets/7400829/af3af679-90e7-4d16-9cc4-d8452655c9b1)
 
 ## 联系方式：
